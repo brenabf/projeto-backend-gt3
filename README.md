@@ -24,9 +24,7 @@ API backend desenvolvida para resolver um desafio técnico, com foco em organiza
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [API / Endpoints](#api--endpoints)
 - [Testes](#testes)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
-- [Autor / Contato](#autor--contato)
+
 
 ---
 
@@ -100,21 +98,6 @@ GET	/	Verifica status da API
 GET	/items	Lista recursos
 POST	/items	Cria novo recurso
 Testes
-
-Caso implementado:
-
-npm test
-Contribuindo
-Fork do projeto
-Crie uma branch:
-git checkout -b feature/minha-feature
-Commit:
-git commit -m "feat: minha nova feature"
-Push:
-git push origin feature/minha-feature
-Abra um Pull Request
-Licença
-
 
 ## Observações
 
