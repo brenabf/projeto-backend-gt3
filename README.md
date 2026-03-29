@@ -97,7 +97,15 @@ Método	Endpoint	Descrição
 GET	/	Verifica status da API
 GET	/items	Lista recursos
 POST	/items	Cria novo recurso
-Testes
+
+## Testes
+
+Execute os testes (se disponíveis):
+```bash
+npm test
+```
+
+Inclua scripts adicionais de cobertura se necessário.
 
 ## Observações
 
